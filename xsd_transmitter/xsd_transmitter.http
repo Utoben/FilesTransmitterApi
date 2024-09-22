@@ -1,0 +1,6 @@
+@xsd_transmitter_HostAddress = http://localhost:5193
+
+GET {{xsd_transmitter_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

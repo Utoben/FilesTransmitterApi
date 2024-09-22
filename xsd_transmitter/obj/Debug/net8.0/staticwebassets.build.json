@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9UoZxtyDnMQvS6+c4UoDpsGhKvw2OcbG4YnKCGp6ydA=",
+  "Source": "xsd_transmitter",
+  "BasePath": "_content/xsd_transmitter",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

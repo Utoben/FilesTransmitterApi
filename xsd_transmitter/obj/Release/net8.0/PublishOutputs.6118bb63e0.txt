@@ -1,0 +1,11 @@
+D:\code\C#\xsd_transmitter\out\xsd_transmitter.exe
+D:\code\C#\xsd_transmitter\out\appsettings.Development.json
+D:\code\C#\xsd_transmitter\out\appsettings.json
+D:\code\C#\xsd_transmitter\out\xsd_transmitter.dll
+D:\code\C#\xsd_transmitter\out\xsd_transmitter.deps.json
+D:\code\C#\xsd_transmitter\out\xsd_transmitter.runtimeconfig.json
+D:\code\C#\xsd_transmitter\out\xsd_transmitter.pdb
+D:\code\C#\xsd_transmitter\out\Microsoft.OpenApi.dll
+D:\code\C#\xsd_transmitter\out\Swashbuckle.AspNetCore.Swagger.dll
+D:\code\C#\xsd_transmitter\out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\code\C#\xsd_transmitter\out\Swashbuckle.AspNetCore.SwaggerUI.dll

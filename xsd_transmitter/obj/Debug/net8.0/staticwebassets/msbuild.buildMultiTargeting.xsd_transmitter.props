@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\xsd_transmitter.props" />
+</Project>
